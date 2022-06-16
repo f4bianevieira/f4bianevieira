@@ -11,7 +11,6 @@
    Conclui o curso de Desenvolvimento de Competências, pela Evoluíre.<br>
    Conclui o curso de Linguagem Genero e SQL Informix, pelo CEIT.<br>
   </p>
-  <br>
   <h2>🎲 Hobbies:</h2>
   <p align="left">
    Nas horas vagas, gosto de jogar jogos de mesa (xadrex, master, cartas).
@@ -19,12 +18,10 @@
    Amo acampar e realizar atividades ao ar livre.
    Souy apaixonada por Gatos! <3
   </p>
-    <br>
   <h2>🔨 Experiências profissionais:</h2>
   <p align="left">
     Atualmente, atuo como metalúrgica. Mas, ja trabalhei como suporte técnico de ti, como auxiliar administrativo e como vendedora.
   </p>
-  <br>
   <h2> 🔥 Linguagens que estou estudando:</h2>
 
 <p align="center"> 
@@ -33,9 +30,7 @@
     <a style="padding-right:8px;" href="https://www.ibm.com/products/informix" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" height="42" width="42"/> </a>
     <a href="https://4js.com/" target="_blank"> <img src="https://4js.com/wp-content/uploads/2015/05/logo_4Js_2014_CMYK_seul-300x92.png" alt="express" height="42" width="72" /> </a> 
     <a style="padding-right:8px;" href="https://www.ibm.com/products/informix" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/882/882727.png" height="45" width="45"/> </a>  
-    
 </p>
-  <br>
   <h2>⚡️ Onde me encontrar:</h2>
 <p align="center"> 
     <a href="https://www.linkedin.com/in/fabiane-silva-138827162/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1655336137~hmac=661fbc4910cbc8436c087d288270c7ee" alt="express" width="37" height="37"/> </a>
