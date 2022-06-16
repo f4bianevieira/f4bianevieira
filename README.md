@@ -14,9 +14,9 @@
   <h2>🎲 Hobbies:</h2>
   <p align="left">
    Nas horas vagas, gosto de jogar jogos de mesa (xadrex, master, cartas).
-   Gosto de assistir séries e filmes, mas passo a maior parte do tempo degustando o catalogo da neeflix hehe
+   Gosto de assistir séries e filmes, mas passo a maior parte do tempo degustando o catalogo da netflix hehe
    Amo acampar e realizar atividades ao ar livre.
-   Souy apaixonada por Gatos! <3
+   Sou apaixonada por Gatos! <3
   </p>
   <h2>🔨 Experiências profissionais:</h2>
   <p align="left">
