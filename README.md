@@ -5,11 +5,11 @@
   <hr>
   <h2> 🎓 Formação:</h2>
   <p align="left">
-   Atualmente, estou cursando o programa de formação de Desenvolvedores FullStack, na Growdev.
-   Sou graduada em Análise e Desenvolvimento de Sistemas, pela UNINTER.
-   Conclui o curso Téc em Informática, pelas Faculdades QI.
-   Conclui o curso de Desenvolvimento de Competências, pela Evoluíre.
-   Conclui o curso de Linguagem Genero e SQL Informix, pelo CEIT.
+   Atualmente, estou cursando o programa de formação de Desenvolvedores FullStack, na Growdev.<br>
+   Sou graduada em Análise e Desenvolvimento de Sistemas, pela UNINTER.<br>
+   Conclui o curso Téc em Informática, pelas Faculdades QI.<br>
+   Conclui o curso de Desenvolvimento de Competências, pela Evoluíre.<br>
+   Conclui o curso de Linguagem Genero e SQL Informix, pelo CEIT.<br>
   </p>
   <br>
   <h2>🎲 Hobbies:</h2>
