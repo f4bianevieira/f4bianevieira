@@ -39,7 +39,6 @@
   <h2>⚡️ Onde me encontrar:</h2>
 <p align="center"> 
     <a href="https://www.linkedin.com/in/fabiane-silva-138827162/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1655336137~hmac=661fbc4910cbc8436c087d288270c7ee" alt="express" width="37" height="37"/> </a>
-    <a href="f4bianevieira@gmail.com" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504739.png?token=exp=1655336245~hmac=94bc9de66bcd4df90760e0dfd0ee22f6" alt="express" width="37" height="37"/ > </a>
    <a href="https://twitter.com/blckskye" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1655336337~hmac=c047e54d85c78da5f39e9b7fa6870cf7" alt="express" width="37" height="37"/> </a>
     <a href="https://www.instagram.com/f4bi.exe/?hl=en" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1655336406~hmac=541bab975e77462eb378b28c6f2eff27" alt="express" width="37" height="36"/ > </a>  
 </p>
