@@ -27,7 +27,7 @@
   <br>
   <h2> 🔥 Linguagens que estou estudando:</h2>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"height="42" width="42"/> </a> 
     <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/344/html-5--v2.png" height="42" width="42"/> </a> 
     <a style="padding-right:8px;" href="https://www.ibm.com/products/informix" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" height="42" width="42"/> </a>
@@ -37,7 +37,7 @@
 </p>
   <br>
   <h2>⚡️ Onde me encontrar:</h2>
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.linkedin.com/in/fabiane-silva-138827162/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1655336137~hmac=661fbc4910cbc8436c087d288270c7ee" alt="express" width="37" height="37"/> </a>
     <a href="f4bianevieira@gmail.com" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504739.png?token=exp=1655336245~hmac=94bc9de66bcd4df90760e0dfd0ee22f6" alt="express" width="37" height="37"/ > </a>
    <a href="https://twitter.com/blckskye" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1655336337~hmac=c047e54d85c78da5f39e9b7fa6870cf7" alt="express" width="37" height="37"/> </a>
